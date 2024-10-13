@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,jwsc.eu.org
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,javbus.com
+#Emby
+DOMAIN-SUFFIX,themoviedb.org
