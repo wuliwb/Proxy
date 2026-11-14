@@ -23,3 +23,12 @@ DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,app.apple.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,issuer.apple.com
+DOMAIN-SUFFIX,ropes.apple.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN,gemini.gstatic.com
+DOMAIN-SUFFIX,deepmind.google
